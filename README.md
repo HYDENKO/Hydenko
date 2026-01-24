@@ -18,7 +18,7 @@
 ## 📜 Social media profiles
 <p align="left">
     <a href="https://forum.xda-developers.com/t/index-redmi-3-custom-roms-kernels-etc-19-02-2021.4099085/"><img height="40px" src="https://github.com/HYDENKO/Hydenko/raw/main/icons/XDA_dev-ICON_v8_by_Hydenko.svg" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://reddit.com/user/Nate_Hydenko"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Reddit.svg" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://reddit.com/user/retapic"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Reddit.svg" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/Nate_Hydenko"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Twitter.svg" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://instagram.com/Nate_Hydenko"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Instagram.svg" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://steamcommunity.com/id/Nate_Hydenko"><img height="40px" src="https://github.com/HYDENKO/Hydenko/raw/main/icons/Steam_LikeStock.svg" /></a>&nbsp;&nbsp;&nbsp;
